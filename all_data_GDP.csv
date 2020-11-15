@@ -1,0 +1,97 @@
+Country,Year,GDP,Analytic Company,Location of Analytic Company
+Chile,2000,77860932152,Segmant ,San Francisco 
+Chile,2001,70979923960,Segmant ,San Francisco 
+Chile,2002,69736811435,Segmant ,San Francisco 
+Chile,2003,75643459840,Segmant ,San Francisco 
+Chile,2004,99210392858,Segmant ,San Francisco 
+Chile,2005,1.23E+11,Segmant ,San Francisco 
+Chile,2006,1.55E+11,Segmant ,San Francisco 
+Chile,2007,1.74E+11,Segmant ,San Francisco 
+Chile,2008,1.80E+11,Segmant ,San Francisco 
+Chile,2009,1.72E+11,Segmant ,San Francisco 
+Chile,2010,2.19E+11,Segmant ,San Francisco 
+Chile,2011,2.52E+11,Segmant ,San Francisco 
+Chile,2012,2.67E+11,Segmant ,San Francisco 
+Chile,2013,2.78E+11,Segmant ,San Francisco 
+Chile,2014,2.61E+11,Segmant ,San Francisco 
+Chile,2015,2.43E+11,Segmant ,San Francisco 
+China,2000,1.21E+12,Fourtran,Denver
+China,2001,1.34E+12,Fourtran,Denver
+China,2002,1.47E+12,Fourtran,Denver
+China,2003,1.66E+12,Fourtran,Denver
+China,2004,1.96E+12,Fourtran,Denver
+China,2005,2.29E+12,Fourtran,Denver
+China,2006,2.75E+12,Fourtran,Denver
+China,2007,3.55E+12,Fourtran,Denver
+China,2008,4.60E+12,Fourtran,Denver
+China,2009,5.11E+12,Fourtran,Denver
+China,2010,6.10E+12,Fourtran,Denver
+China,2011,7.57E+12,Fourtran,Denver
+China,2012,8.56E+12,Fourtran,Denver
+China,2013,9.61E+12,Fourtran,Denver
+China,2014,1.05E+13,Fourtran,Denver
+China,2015,1.11E+13,Fourtran,Denver
+Germany,2000,1.95E+12,Tamr,Cambridge
+Germany,2001,1.95E+12,Tamr,Cambridge
+Germany,2002,2.08E+12,Tamr,Cambridge
+Germany,2003,2.51E+12,Tamr,Cambridge
+Germany,2004,2.82E+12,Tamr,Cambridge
+Germany,2005,2.86E+12,Tamr,Cambridge
+Germany,2006,3.00E+12,Tamr,Cambridge
+Germany,2007,3.44E+12,Tamr,Cambridge
+Germany,2008,3.75E+12,Tamr,Cambridge
+Germany,2009,3.42E+12,Tamr,Cambridge
+Germany,2010,3.42E+12,Tamr,Cambridge
+Germany,2011,3.76E+12,Tamr,Cambridge
+Germany,2012,3.54E+12,Tamr,Cambridge
+Germany,2013,3.75E+12,Tamr,Cambridge
+Germany,2014,3.89E+12,Tamr,Cambridge
+Germany,2015,3.38E+12,Tamr,Cambridge
+Mexico,2000,6.84E+11,Qumolei,Seattle
+Mexico,2001,7.25E+11,Qumolei,Seattle
+Mexico,2002,7.42E+11,Qumolei,Seattle
+Mexico,2003,7.13E+11,Qumolei,Seattle
+Mexico,2004,7.70E+11,Qumolei,Seattle
+Mexico,2005,8.66E+11,Qumolei,Seattle
+Mexico,2006,9.65E+11,Qumolei,Seattle
+Mexico,2007,1.04E+12,Qumolei,Seattle
+Mexico,2008,1.10E+12,Qumolei,Seattle
+Mexico,2009,8.95E+11,Qumolei,Seattle
+Mexico,2010,1.05E+12,Qumolei,Seattle
+Mexico,2011,1.17E+12,Qumolei,Seattle
+Mexico,2012,1.19E+12,Qumolei,Seattle
+Mexico,2013,1.26E+12,Qumolei,Seattle
+Mexico,2014,1.30E+12,Qumolei,Seattle
+Mexico,2015,1.15E+12,Qumolei,Seattle
+United States of America,2000,1.03E+13,Civor Analytics,Illinois
+United States of America,2001,1.06E+13,Civor Analytics,Illinois
+United States of America,2002,1.10E+13,Civor Analytics,Illinois
+United States of America,2003,1.15E+13,Civor Analytics,Illinois
+United States of America,2004,1.23E+13,Civor Analytics,Illinois
+United States of America,2005,1.31E+13,Civor Analytics,Illinois
+United States of America,2006,1.39E+13,Civor Analytics,Illinois
+United States of America,2007,1.45E+13,Civor Analytics,Illinois
+United States of America,2008,1.47E+13,Civor Analytics,Illinois
+United States of America,2009,1.44E+13,Civor Analytics,Illinois
+United States of America,2010,1.50E+13,Civor Analytics,Illinois
+United States of America,2011,1.55E+13,Civor Analytics,Illinois
+United States of America,2012,1.62E+13,Civor Analytics,Illinois
+United States of America,2013,1.67E+13,Civor Analytics,Illinois
+United States of America,2014,1.74E+13,Civor Analytics,Illinois
+United States of America,2015,1.81E+13,Civor Analytics,Illinois
+Zimbabwe,2000,6689957600,TrandGround,Austin
+Zimbabwe,2001,6777384700,TrandGround,Austin
+Zimbabwe,2002,6342116400,TrandGround,Austin
+Zimbabwe,2003,5727591800,TrandGround,Austin
+Zimbabwe,2004,5805598400,TrandGround,Austin
+Zimbabwe,2005,5755215200,TrandGround,Austin
+Zimbabwe,2006,5443896500,TrandGround,Austin
+Zimbabwe,2007,5291950100,TrandGround,Austin
+Zimbabwe,2008,4415702800,TrandGround,Austin
+Zimbabwe,2009,8621573608,TrandGround,Austin
+Zimbabwe,2010,10141859710,TrandGround,Austin
+Zimbabwe,2011,12098450749,TrandGround,Austin
+Zimbabwe,2012,14242490252,TrandGround,Austin
+Zimbabwe,2013,15451768659,TrandGround,Austin
+Zimbabwe,2014,15891049236,TrandGround,Austin
+Zimbabwe,2015,16304667807,TrandGround,Austin
